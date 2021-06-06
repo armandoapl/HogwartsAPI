@@ -1,0 +1,110 @@
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\appsettings.json
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.exe
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.deps.json
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.runtimeconfig.json
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.runtimeconfig.dev.json
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\ref\HogwartsRegistration.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.pdb
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.csprojAssemblyReference.cache
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.AssemblyInfoInputs.cache
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.AssemblyInfo.cs
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\staticwebassets\HogwartsRegistration.StaticWebAssets.Manifest.cache
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\staticwebassets\HogwartsRegistration.StaticWebAssets.xml
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\scopedcss\bundle\HogwartsRegistration.styles.css
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.RazorTargetAssemblyInfo.cache
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.csproj.CopyComplete
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\ref\HogwartsRegistration.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.pdb
+C:\Users\Armando\source\repos\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.genruntimeconfig.cache
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Armando\source\repos\HogwartsRegistration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\appsettings.json
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.exe
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.deps.json
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.runtimeconfig.json
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.runtimeconfig.dev.json
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\ref\HogwartsRegistration.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\HogwartsRegistration.pdb
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.csprojAssemblyReference.cache
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.AssemblyInfoInputs.cache
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.AssemblyInfo.cs
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\staticwebassets\HogwartsRegistration.StaticWebAssets.Manifest.cache
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\staticwebassets\HogwartsRegistration.StaticWebAssets.xml
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\scopedcss\bundle\HogwartsRegistration.styles.css
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.RazorTargetAssemblyInfo.cache
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.csproj.CopyComplete
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\ref\HogwartsRegistration.dll
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.pdb
+C:\Users\Armando\source\repos\Desafio backend\HogwartsRegistration\obj\Debug\net5.0\HogwartsRegistration.genruntimeconfig.cache
